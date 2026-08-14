@@ -1,0 +1,61 @@
+images/line_00001.jpg	Vũ Đình Dũng, sinh ngày 26/06/1968
+images/line_00346.jpg	Đơn đề nghị cấp lại - Tỉnh Thừa Thiên Huế
+images/line_00327.jpg	Dương Thuỳ Linh, sinh ngày 07/03/1979
+images/line_00124.jpg	Số tiền bảo hiểm: 833.000 đồng
+images/line_00128.jpg	Điều 31: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00158.jpg	Ngô Việt Hưng, sinh ngày 17/08/1975
+images/line_00131.jpg	Đơn đề nghị cấp lại - Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00331.jpg	Đỗ Thị Kiều Oanh, sinh ngày 01/07/1993
+images/line_00077.jpg	Điều 23: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00251.jpg	Trần Đức Thắng, sinh ngày 04/09/1991
+images/line_00257.jpg	Biên bản nghiệm thu công trình - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00301.jpg	Thời hạn hiệu lực: từ 03/04/2022 đến hết 31/12/2027
+images/line_00034.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 02/11/1993
+images/line_00356.jpg	Điều 7: Giải quyết tranh chấp và luật áp dụng
+images/line_00063.jpg	Giá trị hoàn lại: 886.000 đồng
+images/line_00379.jpg	Giấy ủy quyền sử dụng tài khoản mã số 2511861255
+images/line_00116.jpg	Người đại diện theo pháp luật: Lê Hoàng Mỹ Duyên
+images/line_00172.jpg	Thông báo nộp phí bảo hiểm - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00326.jpg	Điều 33: Giải quyết tranh chấp và luật áp dụng
+images/line_00313.jpg	Ngô Việt Hưng, sinh ngày 17/04/1994
+images/line_00348.jpg	Vũ Đình Dũng, sinh ngày 24/06/1998
+images/line_00097.jpg	Bùi Xuân Trường, sinh ngày 02/02/1991
+images/line_00191.jpg	Xác nhận đã nhận đủ hồ sơ gốc và bản sao y
+images/line_00044.jpg	Biên nhận hồ sơ gốc - Tỉnh Thừa Thiên Huế
+images/line_00040.jpg	Biên nhận hồ sơ gốc số hiệu 4089301571
+images/line_00255.jpg	Phạm Quốc Cường, sinh ngày 07/03/1987
+images/line_00145.jpg	Phụ lục hợp đồng kinh tế - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00169.jpg	Mức khấu trừ: 641.000 đồng
+images/line_00171.jpg	Điều 25: Giải quyết tranh chấp và luật áp dụng
+images/line_00141.jpg	Điều 27: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00183.jpg	Biên nhận hồ sơ gốc số hiệu 712630920
+images/line_00125.jpg	Điều 37: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00330.jpg	Điều 28: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00226.jpg	Ngày ký: 11/09/2027 tại Thành phố Hồ Chí Minh
+images/line_00224.jpg	Điều 15: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00196.jpg	Điều 26: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00017.jpg	Đề nghị thanh toán chi phí - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00194.jpg	Giá trị hoàn lại: 117.000.000 đồng
+images/line_00087.jpg	Biên nhận hồ sơ gốc ký hiệu 4214442173
+images/line_00323.jpg	Vũ Đình Dũng, sinh ngày 26/06/1967
+images/line_00132.jpg	Giấy chứng nhận quyền sử dụng đất số hiệu 5673298925
+images/line_00123.jpg	Thời hạn hiệu lực: từ 07/02/2023 đến hết 31/12/2028
+images/line_00320.jpg	Hợp đồng bảo hiểm nhân thọ ký hiệu 4192755947
+images/line_00222.jpg	Trần Đức Thắng, sinh ngày 17/10/1997
+images/line_00373.jpg	Lý Bảo Khánh, sinh ngày 19/10/1993
+images/line_00086.jpg	Mức khấu trừ: 384.000 đồng
+images/line_00181.jpg	Phí thường niên: 840.000.000 đồng
+images/line_00018.jpg	Giấy chứng nhận quyền sử dụng đất mã hồ sơ 3927252877
+images/line_00107.jpg	Phụ lục hợp đồng kinh tế - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00274.jpg	Biên bản nghiệm thu công trình mã hồ sơ 9569574553
+images/line_00065.jpg	Biên nhận hồ sơ gốc - Thành phố Hồ Chí Minh
+images/line_00163.jpg	Thông báo nộp phí bảo hiểm mã hồ sơ 9032815415
+images/line_00349.jpg	Trần Đức Thắng, sinh ngày 14/08/1979
+images/line_00293.jpg	Tổng cộng phải nộp: 140.000.000 đồng
+images/line_00108.jpg	Trần Đức Thắng, sinh ngày 07/06/1995
+images/line_00245.jpg	Thời hạn hiệu lực: từ 11/08/2025 đến hết 31/12/2030
+images/line_00185.jpg	Số tài khoản: 9157 3577 9741 tại Ngân hàng TMCP Ngoại thương Việt Nam
+images/line_00029.jpg	Phí thường niên: 700.000.000 đồng
+images/line_00052.jpg	Địa chỉ thường trú: số 365 đường Nguyễn Văn Cừ, Tỉnh Bà Rịa - Vũng Tàu
+images/line_00325.jpg	Lý Bảo Khánh, sinh ngày 21/11/1980
+images/line_00325.jpg	Lý Bảo Khánh, sinh ngày 21/11/1980

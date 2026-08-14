@@ -1,0 +1,341 @@
+images/line_00069.jpg	Ngô Việt Hưng, sinh ngày 27/04/1993
+images/line_00091.jpg	Phí thường niên: 879.000.000 đồng
+images/line_00358.jpg	Tờ khai thuế thu nhập cá nhân - Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00110.jpg	Số tiền bảo hiểm: 510.000.000 đồng
+images/line_00013.jpg	Phí thường niên: 595.000.000 đồng
+images/line_00082.jpg	Quyết định bổ nhiệm cán bộ mã hồ sơ 7919102953
+images/line_00350.jpg	Điều 16: Giải quyết tranh chấp và luật áp dụng
+images/line_00290.jpg	Điều 29: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00314.jpg	Phụ lục hợp đồng kinh tế số hiệu 8864600497
+images/line_00014.jpg	Dương Thuỳ Linh, sinh ngày 07/11/1984
+images/line_00049.jpg	Giá trị hoàn lại: 965.000.000 đồng
+images/line_00217.jpg	Điều 36: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00098.jpg	Điều 26: Điều khoản loại trừ trách nhiệm bảo hiểm
+images/line_00362.jpg	Điều 15: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00070.jpg	Tờ khai thuế thu nhập cá nhân - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00005.jpg	Biên bản nghiệm thu công trình - Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00022.jpg	Hợp đồng bảo hiểm nhân thọ mã số 7654557217
+images/line_00142.jpg	Bảng kê chi tiết các khoản mục - Tỉnh Thừa Thiên Huế
+images/line_00112.jpg	Hoàng Thị Tuyết Mai, sinh ngày 27/11/1991
+images/line_00189.jpg	Quyết định bổ nhiệm cán bộ số thứ tự 1119721550
+images/line_00021.jpg	Ngày ký: 20/09/2028 tại Quận Hải Châu, Đà Nẵng
+images/line_00201.jpg	Số tài khoản: 9374 2519 4597 tại Ngân hàng TMCP Ngoại thương Việt Nam
+images/line_00045.jpg	Thời hạn hiệu lực: từ 28/02/2023 đến hết 31/12/2028
+images/line_00111.jpg	Phụ lục hợp đồng kinh tế số 6778205327
+images/line_00364.jpg	Số tiền bảo hiểm: 50.000.000 đồng
+images/line_00209.jpg	Quyết định bổ nhiệm cán bộ mã số 5489372666
+images/line_00148.jpg	Dương Thuỳ Linh, sinh ngày 26/07/1995
+images/line_00157.jpg	Hợp đồng bảo hiểm nhân thọ mã số 1546283790
+images/line_00225.jpg	Phụ lục hợp đồng kinh tế mã số 4413448844
+images/line_00219.jpg	Hợp đồng bảo hiểm nhân thọ mã số 9988255194
+images/line_00073.jpg	Số tiền tạm ứng: 867.000.000 đồng
+images/line_00088.jpg	Mức khấu trừ: 180.000.000 đồng
+images/line_00332.jpg	Điều 35: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00259.jpg	Tổng cộng phải nộp: 300.000 đồng
+images/line_00041.jpg	Số tiền bảo hiểm: 110.000.000 đồng
+images/line_00263.jpg	Tờ khai thuế thu nhập cá nhân - Thị xã Sơn Tây, Hà Nội
+images/line_00377.jpg	Mức khấu trừ: 689.000 đồng
+images/line_00371.jpg	Chữ ký và ghi rõ họ tên của người nhận: Lê Hoàng Mỹ Duyên
+images/line_00247.jpg	Biên bản nghiệm thu công trình - Quận Hải Châu, Đà Nẵng
+images/line_00103.jpg	Kính gửi: Ông/Bà Hoàng Thị Tuyết Mai - Trưởng phòng Kế toán
+images/line_00127.jpg	Hoàng Thị Tuyết Mai, sinh ngày 15/01/1961
+images/line_00386.jpg	Kính gửi: Ông/Bà Phạm Quốc Cường - Trưởng phòng Kế toán
+images/line_00261.jpg	Biên nhận hồ sơ gốc số 148361136
+images/line_00359.jpg	Điều 22: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00254.jpg	Điều 7: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00220.jpg	Dương Thuỳ Linh, sinh ngày 04/02/1961
+images/line_00208.jpg	Bảng kê chi tiết các khoản mục số hiệu 8883701834
+images/line_00117.jpg	Số tiền bảo hiểm: 452.000 đồng
+images/line_00161.jpg	Quyết định bổ nhiệm cán bộ - Thị xã Sơn Tây, Hà Nội
+images/line_00304.jpg	Đặng Ngọc Ánh, sinh ngày 12/02/1990
+images/line_00292.jpg	Tổng cộng phải nộp: 48.000.000 đồng
+images/line_00210.jpg	Số tiền bảo hiểm: 520.000.000 đồng
+images/line_00267.jpg	Tổng cộng phải nộp: 721.000 đồng
+images/line_00027.jpg	Điều 22: Điều khoản loại trừ trách nhiệm bảo hiểm
+images/line_00054.jpg	Bảng kê chi tiết các khoản mục mã hồ sơ 4142137770
+images/line_00277.jpg	Phụ lục hợp đồng kinh tế mã hồ sơ 7886473464
+images/line_00315.jpg	Thông báo nộp phí bảo hiểm - Tỉnh Thừa Thiên Huế
+images/line_00381.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 21/03/1969
+images/line_00204.jpg	Trần Đức Thắng, sinh ngày 25/01/1975
+images/line_00053.jpg	Người đại diện theo pháp luật: Đỗ Thị Kiều Oanh
+images/line_00316.jpg	Đơn đề nghị cấp lại - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00118.jpg	Thông báo nộp phí bảo hiểm - Quận Hải Châu, Đà Nẵng
+images/line_00233.jpg	Quyết định bổ nhiệm cán bộ - Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00203.jpg	Lý Bảo Khánh, sinh ngày 22/12/1974
+images/line_00095.jpg	Mức khấu trừ: 824.000.000 đồng
+images/line_00288.jpg	Tổng số tiền: 385.000 đồng
+images/line_00187.jpg	Giấy chứng nhận quyền sử dụng đất số thứ tự 2050771959
+images/line_00213.jpg	Số tiền tạm ứng: 449.000 đồng
+images/line_00278.jpg	Thời hạn hiệu lực: từ 09/10/2028 đến hết 31/12/2033
+images/line_00152.jpg	Phí thường niên: 249.000.000 đồng
+images/line_00243.jpg	Kính gửi: Ông/Bà Lê Hoàng Mỹ Duyên - Trưởng phòng Kế toán
+images/line_00308.jpg	Đề nghị thanh toán chi phí mã số 378883656
+images/line_00042.jpg	Điều 36: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00236.jpg	Mức khấu trừ: 413.000 đồng
+images/line_00390.jpg	Thời hạn hiệu lực: từ 19/02/2024 đến hết 31/12/2029
+images/line_00300.jpg	Đơn đề nghị cấp lại - Thành phố Hồ Chí Minh
+images/line_00285.jpg	Phụ lục hợp đồng kinh tế mã số 1722544321
+images/line_00337.jpg	Tổng cộng phải nộp: 886.000 đồng
+images/line_00324.jpg	Số tài khoản: 4239 5893 8585 tại Ngân hàng TMCP Ngoại thương Việt Nam
+images/line_00273.jpg	Đặng Ngọc Ánh, sinh ngày 07/01/1961
+images/line_00322.jpg	Điều 37: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00020.jpg	Số tiền bảo hiểm: 170.000 đồng
+images/line_00078.jpg	Tổng số tiền: 650.000.000 đồng
+images/line_00366.jpg	Mức khấu trừ: 269.000 đồng
+images/line_00248.jpg	Địa chỉ thường trú: số 318 đường Nguyễn Văn Cừ, Tỉnh Bà Rịa - Vũng Tàu
+images/line_00143.jpg	Dương Thuỳ Linh, sinh ngày 24/09/1962
+images/line_00055.jpg	Số tiền bảo hiểm: 483.000 đồng
+images/line_00256.jpg	Hợp đồng bảo hiểm nhân thọ số hiệu 5671590901
+images/line_00340.jpg	Điều 18: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00388.jpg	Hoàng Thị Tuyết Mai, sinh ngày 22/06/1969
+images/line_00188.jpg	Điều 32: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00154.jpg	Hợp đồng bảo hiểm nhân thọ - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00028.jpg	Điều 13: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00228.jpg	Địa chỉ thường trú: số 485 đường Nguyễn Văn Cừ, Tỉnh Bà Rịa - Vũng Tàu
+images/line_00184.jpg	Tổng cộng phải nộp: 277.000 đồng
+images/line_00104.jpg	Điều 16: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00011.jpg	Người đại diện theo pháp luật: Ngô Việt Hưng
+images/line_00100.jpg	Quyết định bổ nhiệm cán bộ - Thành phố Hồ Chí Minh
+images/line_00081.jpg	Giá trị hoàn lại: 869.000 đồng
+images/line_00177.jpg	Bùi Xuân Trường, sinh ngày 22/10/1985
+images/line_00317.jpg	Số tài khoản: 6386 3793 5605 tại Ngân hàng TMCP Ngoại thương Việt Nam
+images/line_00190.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 24/01/1966
+images/line_00122.jpg	Điều 19: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00024.jpg	Hợp đồng bảo hiểm nhân thọ - Tỉnh Thừa Thiên Huế
+images/line_00167.jpg	Số tiền bảo hiểm: 312.000.000 đồng
+images/line_00067.jpg	Biên bản nghiệm thu công trình ký hiệu 7235815747
+images/line_00016.jpg	Phí thường niên: 218.000.000 đồng
+images/line_00033.jpg	Kính gửi: Ông/Bà Lý Bảo Khánh - Trưởng phòng Kế toán
+images/line_00094.jpg	Giấy chứng nhận quyền sử dụng đất - Phường Bến Nghé, Quận 1
+images/line_00119.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 22/08/1984
+images/line_00321.jpg	Số tiền bảo hiểm: 762.000 đồng
+images/line_00311.jpg	Phí thường niên: 215.000.000 đồng
+images/line_00369.jpg	Lê Hoàng Mỹ Duyên, sinh ngày 04/12/1992
+images/line_00074.jpg	Điều 18: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00387.jpg	Phụ lục hợp đồng kinh tế - Tỉnh Thừa Thiên Huế
+images/line_00008.jpg	Phụ lục hợp đồng kinh tế mã số 1002504944
+images/line_00037.jpg	Biên nhận hồ sơ gốc - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00345.jpg	Tổng số tiền: 220.000.000 đồng
+images/line_00002.jpg	Đơn đề nghị cấp lại số thứ tự 2350754367
+images/line_00352.jpg	Biên bản nghiệm thu công trình số 2783441352
+images/line_00239.jpg	Địa chỉ thường trú: số 253 đường Nguyễn Văn Cừ, Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00060.jpg	Vũ Đình Dũng, sinh ngày 02/04/1963
+images/line_00232.jpg	Mức khấu trừ: 768.000 đồng
+images/line_00279.jpg	Tổng cộng phải nộp: 960.000.000 đồng
+images/line_00004.jpg	Giấy ủy quyền sử dụng tài khoản - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00211.jpg	Giấy ủy quyền sử dụng tài khoản số thứ tự 127155395
+images/line_00305.jpg	Trần Đức Thắng, sinh ngày 09/04/1976
+images/line_00126.jpg	Đặng Ngọc Ánh, sinh ngày 03/07/1977
+images/line_00026.jpg	Hợp đồng bảo hiểm nhân thọ số hiệu 109046982
+images/line_00075.jpg	Đề nghị quý khách kiểm tra kỹ trước khi ký xác nhận
+images/line_00287.jpg	Trần Đức Thắng, sinh ngày 06/09/1990
+images/line_00039.jpg	Giấy ủy quyền sử dụng tài khoản số thứ tự 6627230923
+images/line_00025.jpg	Tổng số tiền: 378.000 đồng
+images/line_00260.jpg	Số tiền tạm ứng: 320.000 đồng
+images/line_00212.jpg	Kính gửi: Ông/Bà Trần Đức Thắng - Trưởng phòng Kế toán
+images/line_00175.jpg	Phí thường niên: 827.000 đồng
+images/line_00374.jpg	Thông báo nộp phí bảo hiểm ký hiệu 8857231778
+images/line_00133.jpg	Người đại diện theo pháp luật: Trần Đức Thắng
+images/line_00102.jpg	Trần Đức Thắng, sinh ngày 27/09/1994
+images/line_00365.jpg	Hoàng Thị Tuyết Mai, sinh ngày 23/01/1984
+images/line_00361.jpg	Điều 39: Điều khoản loại trừ trách nhiệm bảo hiểm
+images/line_00319.jpg	Đỗ Thị Kiều Oanh, sinh ngày 02/11/1971
+images/line_00136.jpg	Ngày ký: 03/05/2024 tại Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00258.jpg	Quyết định bổ nhiệm cán bộ ký hiệu 9544214028
+images/line_00295.jpg	Bảng kê chi tiết các khoản mục mã hồ sơ 6933714395
+images/line_00253.jpg	Giá trị hoàn lại: 550.000.000 đồng
+images/line_00342.jpg	Địa chỉ thường trú: số 228 đường Nguyễn Văn Cừ, Phường Bến Nghé, Quận 1
+images/line_00378.jpg	Phí thường niên: 790.000 đồng
+images/line_00229.jpg	Biên nhận hồ sơ gốc - Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00266.jpg	Đặng Ngọc Ánh, sinh ngày 06/01/1995
+images/line_00289.jpg	Số tiền bảo hiểm: 180.000.000 đồng
+images/line_00113.jpg	Giấy ủy quyền sử dụng tài khoản số hiệu 9142755790
+images/line_00265.jpg	Giá trị hoàn lại: 425.000 đồng
+images/line_00089.jpg	Bùi Xuân Trường, sinh ngày 18/10/1969
+images/line_00299.jpg	Phạm Quốc Cường, sinh ngày 24/01/1971
+images/line_00297.jpg	Thông báo nộp phí bảo hiểm mã hồ sơ 8302612650
+images/line_00066.jpg	Biên nhận hồ sơ gốc ký hiệu 1037957283
+images/line_00397.jpg	Tổng cộng phải nộp: 770.000.000 đồng
+images/line_00280.jpg	Biên nhận hồ sơ gốc số hiệu 8705335854
+images/line_00391.jpg	Địa chỉ thường trú: số 48 đường Nguyễn Văn Cừ, Quận Hải Châu, Đà Nẵng
+images/line_00058.jpg	Người đại diện theo pháp luật: Vũ Đình Dũng
+images/line_00281.jpg	Phạm Quốc Cường, sinh ngày 24/10/1985
+images/line_00270.jpg	Hoàng Thị Tuyết Mai, sinh ngày 10/07/1984
+images/line_00291.jpg	Đặng Ngọc Ánh, sinh ngày 24/02/1977
+images/line_00307.jpg	Đề nghị thanh toán chi phí - Quận Hải Châu, Đà Nẵng
+images/line_00343.jpg	Số tiền bảo hiểm: 580.000.000 đồng
+images/line_00003.jpg	Hợp đồng bảo hiểm nhân thọ số thứ tự 3579354694
+images/line_00271.jpg	Biên nhận hồ sơ gốc - Quận Hải Châu, Đà Nẵng
+images/line_00064.jpg	Điều 1: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00056.jpg	Biên nhận hồ sơ gốc - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00318.jpg	Hoàng Thị Tuyết Mai, sinh ngày 06/01/1972
+images/line_00080.jpg	Đỗ Thị Kiều Oanh, sinh ngày 10/01/1995
+images/line_00268.jpg	Lý Bảo Khánh, sinh ngày 06/05/1995
+images/line_00159.jpg	Tờ khai thuế thu nhập cá nhân số thứ tự 2884805948
+images/line_00230.jpg	Số tiền bảo hiểm: 45.000.000 đồng
+images/line_00302.jpg	Điều 7: Điều khoản loại trừ trách nhiệm bảo hiểm
+images/line_00399.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 07/02/1987
+images/line_00162.jpg	Điều 12: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00193.jpg	Số tiền bảo hiểm: 352.000 đồng
+images/line_00398.jpg	Điều 27: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00096.jpg	Biên bản nghiệm thu công trình - Phường Bến Nghé, Quận 1
+images/line_00000.jpg	Chữ ký và ghi rõ họ tên của người nhận: Đỗ Thị Kiều Oanh
+images/line_00146.jpg	Ngày ký: 09/03/2024 tại Thành phố Hồ Chí Minh
+images/line_00068.jpg	Nơi cấp: Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00031.jpg	Chữ ký và ghi rõ họ tên của người nhận: Dương Thuỳ Linh
+images/line_00114.jpg	Giấy chứng nhận quyền sử dụng đất - Thành phố Hồ Chí Minh
+images/line_00168.jpg	Vũ Đình Dũng, sinh ngày 25/06/1963
+images/line_00215.jpg	Giấy ủy quyền sử dụng tài khoản mã hồ sơ 2354080515
+images/line_00099.jpg	Giấy chứng nhận quyền sử dụng đất số hiệu 8445339475
+images/line_00076.jpg	Quyết định bổ nhiệm cán bộ ký hiệu 3649191319
+images/line_00092.jpg	Bùi Xuân Trường, sinh ngày 01/10/1986
+images/line_00294.jpg	Bùi Xuân Trường, sinh ngày 27/08/1975
+images/line_00394.jpg	Tổng số tiền: 715.000 đồng
+images/line_00339.jpg	Số tiền tạm ứng: 680.000.000 đồng
+images/line_00179.jpg	Phí thường niên: 578.000.000 đồng
+images/line_00180.jpg	Đỗ Thị Kiều Oanh, sinh ngày 06/11/1967
+images/line_00341.jpg	Giấy chứng nhận quyền sử dụng đất - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00384.jpg	Điều 3: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00093.jpg	Biên bản nghiệm thu công trình - Thành phố Hồ Chí Minh
+images/line_00170.jpg	Điều 12: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00137.jpg	Ngày ký: 06/08/2027 tại Quận Hải Châu, Đà Nẵng
+images/line_00382.jpg	Tổng cộng phải nộp: 36.000.000 đồng
+images/line_00006.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 10/12/1995
+images/line_00160.jpg	Ngày ký: 11/04/2028 tại Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00195.jpg	Giấy chứng nhận quyền sử dụng đất số 2621321991
+images/line_00284.jpg	Vũ Đình Dũng, sinh ngày 07/12/1997
+images/line_00333.jpg	Nơi cấp: Thị xã Sơn Tây, Hà Nội
+images/line_00370.jpg	Điều 19: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00138.jpg	Điều 38: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00303.jpg	Phụ lục hợp đồng kinh tế - Thành phố Hồ Chí Minh
+images/line_00205.jpg	Giấy chứng nhận quyền sử dụng đất - Quận Hải Châu, Đà Nẵng
+images/line_00218.jpg	Tổng cộng phải nộp: 680.000.000 đồng
+images/line_00192.jpg	Bảng kê chi tiết các khoản mục số hiệu 3092605888
+images/line_00174.jpg	Đề nghị thanh toán chi phí - Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00262.jpg	Bùi Xuân Trường, sinh ngày 21/09/1985
+images/line_00083.jpg	Bảng kê chi tiết các khoản mục - Thành phố Hồ Chí Minh
+images/line_00176.jpg	Biên bản nghiệm thu công trình - Tỉnh Thừa Thiên Huế
+images/line_00200.jpg	Giấy ủy quyền sử dụng tài khoản mã số 6883664546
+images/line_00023.jpg	Người đại diện theo pháp luật: Nguyễn Thị Bích Ngọc
+images/line_00197.jpg	Giấy chứng nhận quyền sử dụng đất - Thị xã Sơn Tây, Hà Nội
+images/line_00199.jpg	Tổng số tiền: 138.000.000 đồng
+images/line_00385.jpg	Điều 6: Giải quyết tranh chấp và luật áp dụng
+images/line_00165.jpg	Phí thường niên: 530.000.000 đồng
+images/line_00043.jpg	Phí thường niên: 86.000.000 đồng
+images/line_00059.jpg	Phạm Quốc Cường, sinh ngày 04/06/1967
+images/line_00139.jpg	Điều 16: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00048.jpg	Tổng cộng phải nộp: 758.000.000 đồng
+images/line_00046.jpg	Quyết định bổ nhiệm cán bộ số 9128707908
+images/line_00286.jpg	Người đại diện theo pháp luật: Đặng Ngọc Ánh
+images/line_00129.jpg	Thời hạn hiệu lực: từ 24/07/2022 đến hết 31/12/2027
+images/line_00101.jpg	Lý Bảo Khánh, sinh ngày 27/06/1985
+images/line_00244.jpg	Điều 15: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00309.jpg	Thông báo nộp phí bảo hiểm ký hiệu 111229251
+images/line_00057.jpg	Điều 36: Thời hạn hiệu lực và điều kiện gia hạn
+images/line_00227.jpg	Giấy ủy quyền sử dụng tài khoản ký hiệu 2506782105
+images/line_00347.jpg	Ngô Việt Hưng, sinh ngày 07/06/1992
+images/line_00269.jpg	Số tiền bảo hiểm: 860.000.000 đồng
+images/line_00062.jpg	Tờ khai thuế thu nhập cá nhân số 1789346237
+images/line_00038.jpg	Số tiền bảo hiểm: 708.000.000 đồng
+images/line_00334.jpg	Điều 12: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00242.jpg	Giá trị hoàn lại: 320.000.000 đồng
+images/line_00329.jpg	Biên nhận hồ sơ gốc mã số 2312186652
+images/line_00010.jpg	Phí thường niên: 646.000.000 đồng
+images/line_00235.jpg	Biên nhận hồ sơ gốc số hiệu 2976068234
+images/line_00019.jpg	Bùi Xuân Trường, sinh ngày 28/05/1971
+images/line_00246.jpg	Phụ lục hợp đồng kinh tế số thứ tự 4441736868
+images/line_00206.jpg	Điều 5: Giải quyết tranh chấp và luật áp dụng
+images/line_00328.jpg	Hoàng Thị Tuyết Mai, sinh ngày 10/03/1980
+images/line_00383.jpg	Điều 31: Giải quyết tranh chấp và luật áp dụng
+images/line_00144.jpg	Địa chỉ thường trú: số 120 đường Nguyễn Văn Cừ, Tỉnh Thừa Thiên Huế
+images/line_00223.jpg	Số tiền tạm ứng: 821.000 đồng
+images/line_00202.jpg	Nơi cấp: Huyện Đức Trọng, Tỉnh Lâm Đồng
+images/line_00353.jpg	Biên nhận hồ sơ gốc mã hồ sơ 5299043622
+images/line_00134.jpg	Giấy ủy quyền sử dụng tài khoản - Thành phố Hồ Chí Minh
+images/line_00276.jpg	Tổng số tiền: 442.000.000 đồng
+images/line_00106.jpg	Phụ lục hợp đồng kinh tế - Phường Bến Nghé, Quận 1
+images/line_00231.jpg	Mức khấu trừ: 841.000.000 đồng
+images/line_00296.jpg	Ngô Việt Hưng, sinh ngày 13/02/1979
+images/line_00238.jpg	Đơn đề nghị cấp lại số 6526627743
+images/line_00178.jpg	Điều 25: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00221.jpg	Tờ khai thuế thu nhập cá nhân mã số 2914687007
+images/line_00047.jpg	Biên bản nghiệm thu công trình mã hồ sơ 8405617779
+images/line_00140.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 08/10/1982
+images/line_00375.jpg	Điều 38: Điều khoản loại trừ trách nhiệm bảo hiểm
+images/line_00237.jpg	Ngô Việt Hưng, sinh ngày 27/03/1996
+images/line_00173.jpg	Điều 21: Nghĩa vụ đóng phí của bên mua bảo hiểm
+images/line_00186.jpg	Hoàng Thị Tuyết Mai, sinh ngày 24/02/1975
+images/line_00061.jpg	Đơn đề nghị cấp lại mã số 3303109528
+images/line_00392.jpg	Giá trị hoàn lại: 430.000.000 đồng
+images/line_00338.jpg	Phụ lục hợp đồng kinh tế số thứ tự 6373340368
+images/line_00120.jpg	Điều 13: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00351.jpg	Đỗ Thị Kiều Oanh, sinh ngày 23/02/1964
+images/line_00249.jpg	Giấy chứng nhận quyền sử dụng đất - Tỉnh Thừa Thiên Huế
+images/line_00051.jpg	Đỗ Thị Kiều Oanh, sinh ngày 19/09/1967
+images/line_00015.jpg	Đỗ Thị Kiều Oanh, sinh ngày 14/12/1972
+images/line_00252.jpg	Tổng cộng phải nộp: 200.000 đồng
+images/line_00084.jpg	Giấy chứng nhận quyền sử dụng đất số hiệu 8247152744
+images/line_00396.jpg	Nguyễn Thị Bích Ngọc, sinh ngày 16/10/1968
+images/line_00149.jpg	Đề nghị thanh toán chi phí số 4706774197
+images/line_00283.jpg	Hợp đồng bảo hiểm nhân thọ - Thị xã Sơn Tây, Hà Nội
+images/line_00355.jpg	Đỗ Thị Kiều Oanh, sinh ngày 12/06/1972
+images/line_00072.jpg	Thời hạn hiệu lực: từ 17/11/2025 đến hết 31/12/2030
+images/line_00090.jpg	Ngô Việt Hưng, sinh ngày 06/12/1983
+images/line_00151.jpg	Thông báo nộp phí bảo hiểm - Thị xã Sơn Tây, Hà Nội
+images/line_00393.jpg	Thời hạn hiệu lực: từ 08/09/2028 đến hết 31/12/2033
+images/line_00306.jpg	Phụ lục hợp đồng kinh tế mã hồ sơ 1100325503
+images/line_00264.jpg	Kính gửi: Ông/Bà Vũ Đình Dũng - Trưởng phòng Kế toán
+images/line_00150.jpg	Giá trị hoàn lại: 410.000.000 đồng
+images/line_00130.jpg	Lý Bảo Khánh, sinh ngày 10/04/1986
+images/line_00363.jpg	Điều 29: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00085.jpg	Phạm Quốc Cường, sinh ngày 25/12/1978
+images/line_00275.jpg	Điều 24: Điều khoản loại trừ trách nhiệm bảo hiểm
+images/line_00147.jpg	Tổng cộng phải nộp: 590.000.000 đồng
+images/line_00105.jpg	Đỗ Thị Kiều Oanh, sinh ngày 08/02/1964
+images/line_00360.jpg	Số tiền bảo hiểm: 781.000.000 đồng
+images/line_00166.jpg	Bảng kê chi tiết các khoản mục mã hồ sơ 8324079151
+images/line_00282.jpg	Lý Bảo Khánh, sinh ngày 26/04/1965
+images/line_00030.jpg	Biên bản nghiệm thu công trình mã hồ sơ 5917365296
+images/line_00109.jpg	Số tiền bảo hiểm: 370.000.000 đồng
+images/line_00156.jpg	Bảng kê chi tiết các khoản mục - Thị xã Sơn Tây, Hà Nội
+images/line_00050.jpg	Số tài khoản: 1028 7767 1430 tại Ngân hàng TMCP Ngoại thương Việt Nam
+images/line_00207.jpg	Số tiền bảo hiểm: 80.000.000 đồng
+images/line_00298.jpg	Trần Đức Thắng, sinh ngày 08/10/1961
+images/line_00372.jpg	Điều 18: Giải quyết tranh chấp và luật áp dụng
+images/line_00214.jpg	Phí thường niên: 838.000 đồng
+images/line_00344.jpg	Dương Thuỳ Linh, sinh ngày 18/08/1983
+images/line_00012.jpg	Đơn đề nghị cấp lại mã số 5397190738
+images/line_00121.jpg	Đề nghị thanh toán chi phí - Thị xã Sơn Tây, Hà Nội
+images/line_00336.jpg	Giấy ủy quyền sử dụng tài khoản ký hiệu 4756864371
+images/line_00272.jpg	Bùi Xuân Trường, sinh ngày 09/09/1967
+images/line_00234.jpg	Giá trị hoàn lại: 213.000 đồng
+images/line_00007.jpg	Phạm Quốc Cường, sinh ngày 16/09/1964
+images/line_00367.jpg	Thời hạn hiệu lực: từ 05/09/2026 đến hết 31/12/2031
+images/line_00035.jpg	Đơn đề nghị cấp lại - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00135.jpg	Quyết định bổ nhiệm cán bộ mã hồ sơ 1098723055
+images/line_00071.jpg	Giấy ủy quyền sử dụng tài khoản - Tỉnh Bà Rịa - Vũng Tàu
+images/line_00335.jpg	Điều 11: Phạm vi bảo hiểm và quyền lợi được hưởng
+images/line_00182.jpg	Điều 12: Giải quyết tranh chấp và luật áp dụng
+images/line_00240.jpg	Số tiền bảo hiểm: 744.000.000 đồng
+images/line_00079.jpg	Tổng số tiền: 388.000.000 đồng
+images/line_00395.jpg	Bảng kê chi tiết các khoản mục - Phường Bến Nghé, Quận 1
+images/line_00354.jpg	Giấy chứng nhận quyền sử dụng đất ký hiệu 3147623190
+images/line_00389.jpg	Vũ Đình Dũng, sinh ngày 26/06/1993
+images/line_00155.jpg	Kính gửi: Ông/Bà Đỗ Thị Kiều Oanh - Trưởng phòng Kế toán
+images/line_00312.jpg	Đặng Ngọc Ánh, sinh ngày 16/09/1985
+images/line_00368.jpg	Biên bản nghiệm thu công trình số thứ tự 9748808335
+images/line_00198.jpg	Thông báo nộp phí bảo hiểm số thứ tự 4716685015
+images/line_00376.jpg	Giấy chứng nhận quyền sử dụng đất số thứ tự 9064467857
+images/line_00380.jpg	Biên nhận hồ sơ gốc ký hiệu 8427523837
+images/line_00241.jpg	Số tiền tạm ứng: 570.000.000 đồng
+images/line_00164.jpg	Đơn đề nghị cấp lại số thứ tự 5341797260
+images/line_00153.jpg	Lý Bảo Khánh, sinh ngày 25/06/1976
+images/line_00310.jpg	Số tiền tạm ứng: 290.000.000 đồng
+images/line_00216.jpg	Lê Hoàng Mỹ Duyên, sinh ngày 03/08/1988
+images/line_00250.jpg	Đơn đề nghị cấp lại số hiệu 3322849089
+images/line_00115.jpg	Tờ khai thuế thu nhập cá nhân - Quận Cầu Giấy, Thành phố Hà Nội
+images/line_00032.jpg	Điều 34: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00036.jpg	Tờ khai thuế thu nhập cá nhân - Quận Hải Châu, Đà Nẵng
+images/line_00357.jpg	Điều 19: Trách nhiệm bồi thường khi xảy ra sự kiện
+images/line_00009.jpg	Giá trị hoàn lại: 280.000.000 đồng
+images/line_00009.jpg	Giá trị hoàn lại: 280.000.000 đồng

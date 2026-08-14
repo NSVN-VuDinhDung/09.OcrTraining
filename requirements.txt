@@ -1,0 +1,25 @@
+numpy
+opencv-python
+onnxruntime
+matplotlib
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+pdfplumber
+huggingface_hub
+shapely
+pyclipper
+ruamel.yaml
+cachetools
+six
+trio
+einops
+gdown
+lmdb
+torchvision
+vietocr
+pdf-inspector
+
+# torch cài riêng qua pytorch.org (CPU)
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu

@@ -1,0 +1,39 @@
+# --- Model (KHÔNG đưa vào git) --------------------------------------------
+# ~810MB. File 145MB vượt giới hạn cứng 100MB của GitHub; dùng LFS thì tiêu
+# gần hết 1GB quota free và rất khó gỡ về sau.
+# Dựng lại bằng:  python download_models.py
+onnx/
+vietocr/weight/
+*.pth
+*.onnx
+
+# --- Đầu ra của training ---------------------------------------------------
+train_output/
+train_*/          # thư mục LMDB do vietocr sinh (train_<name>/)
+valid_*/
+*.mdb
+*.log
+
+# --- Môi trường ------------------------------------------------------------
+venv/
+venv_train/
+.venv/
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- Dữ liệu / kết quả chạy thử --------------------------------------------
+dataset_v*/
+ocr_outputs/
+layouts_outputs/
+log/
+*.pdf
+
+# --- Hệ điều hành / IDE ----------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
