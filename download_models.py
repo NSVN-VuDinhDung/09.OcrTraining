@@ -24,8 +24,20 @@ trong README.md — bản sao dự phòng nằm ở đó.
 import argparse
 import os
 import sys
+import zipfile
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+
+# GitHub Release — bản sao dự phòng, không tính vào LFS quota
+RELEASE_TAG = "models-v1"
+RELEASE_BASE = (f"https://github.com/NSVN-VuDinhDung/09.OcrTraining"
+                f"/releases/download/{RELEASE_TAG}")
+RELEASE_ZIPS = {
+    "core": ("models-core.zip", 466,
+             "onnx/ đầy đủ + vgg_seq2seq.pth — đủ để pipeline chạy"),
+    "optional": ("models-optional.zip", 309,
+                 "vgg_transformer.pth, transformerocr.pth, cnn/encoder/decoder.onnx"),
+}
 
 # (đường dẫn đích, URL, kích thước xấp xỉ MB)
 VIETOCR_WEIGHTS = [
@@ -98,6 +110,34 @@ def download_onnx(force=False):
         return False
 
 
+def download_from_release(which, force=False):
+    """Tải zip từ GitHub Release rồi giải nén vào đúng thư mục.
+
+    Zip giữ nguyên cấu trúc `onnx/...` và `vietocr/weight/...` tính từ gốc repo,
+    nên giải nén tại gốc là đúng chỗ. Đường dẫn trong zip dùng "/" nên giải nén
+    được cả trên Windows lẫn Linux/Colab.
+    """
+    fname, mb, desc = RELEASE_ZIPS[which]
+    url = f"{RELEASE_BASE}/{fname}"
+    tmp = os.path.join(HERE, fname)
+
+    print(f"  {fname} (~{mb} MB) — {desc}")
+    if not download_file(url, tmp, force=True):
+        return False
+
+    print(f"  [giải nén] {fname}")
+    try:
+        with zipfile.ZipFile(tmp) as zf:
+            zf.extractall(HERE)
+        print(f"  [xong] giải nén {len(zipfile.ZipFile(tmp).namelist())} file")
+    except Exception as exc:
+        print(f"  [LỖI] giải nén {fname}: {exc}")
+        return False
+    finally:
+        os.remove(tmp)
+    return True
+
+
 def check():
     print("Kiểm tra model:")
     missing = 0
@@ -125,30 +165,45 @@ def main(a):
         sys.exit(1 if check() else 0)
 
     print("=" * 70)
-    print("TẢI MODEL")
+    print("TẢI MODEL " + ("từ GitHub Release" if a.release else "từ nguồn gốc"))
     print("=" * 70)
 
-    print("\n[1/2] onnx/ — detection, layout, table structure")
-    ok_onnx = download_onnx(a.force)
+    if a.release:
+        ok = download_from_release("core", a.force)
+        if a.all:
+            ok &= download_from_release("optional", a.force)
+        else:
+            print(f"  [bỏ qua] {RELEASE_ZIPS['optional'][0]} — dùng --all nếu cần")
+    else:
+        print("\n[1/2] onnx/ — detection, layout, table structure")
+        ok = download_onnx(a.force)
 
-    print("\n[2/2] vietocr/weight/ — recognition")
-    ok_w = True
-    for rel, url, _ in VIETOCR_WEIGHTS:
-        if not a.all and "transformer" in rel:
-            print(f"  [bỏ qua] {rel} — chỉ cần khi đổi sang vgg_transformer (--all để tải)")
-            continue
-        ok_w &= download_file(url, os.path.join(HERE, rel), a.force)
+        print("\n[2/2] vietocr/weight/ — recognition")
+        for rel, url, _ in VIETOCR_WEIGHTS:
+            if not a.all and "vgg_transformer" in rel:
+                print(f"  [bỏ qua] {rel} — chỉ cần khi đổi sang vgg_transformer (--all để tải)")
+                continue
+            ok &= download_file(url, os.path.join(HERE, rel), a.force)
 
     print("\n" + "=" * 70)
     check()
-    if not (ok_onnx and ok_w):
-        print("\nCó lỗi khi tải. Xem phần 'Tải từ GitHub Release' trong README.md")
+    if not ok:
+        if a.release:
+            print("\nTải từ Release lỗi. Thử nguồn gốc: python download_models.py")
+        else:
+            print("\nTải từ nguồn gốc lỗi. Thử bản sao trên Release:"
+                  "\n  python download_models.py --release")
         sys.exit(1)
 
 
 if __name__ == "__main__":
-    p = argparse.ArgumentParser()
+    p = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--check", action="store_true", help="Chỉ kiểm tra, không tải")
     p.add_argument("--force", action="store_true", help="Tải lại kể cả khi đã có")
-    p.add_argument("--all", action="store_true", help="Tải cả vgg_transformer.pth (145MB)")
+    p.add_argument("--all", action="store_true",
+                   help="Tải cả model tuỳ chọn (vgg_transformer, ocr_onnx...)")
+    p.add_argument("--release", action="store_true",
+                   help="Tải zip từ GitHub Release thay vì nguồn gốc "
+                        "(dùng khi HuggingFace/vocr.vn không truy cập được)")
     main(p.parse_args())

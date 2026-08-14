@@ -37,3 +37,6 @@ log/
 Thumbs.db
 .vscode/
 .idea/
+
+# --- File zip để upload lên GitHub Release (không commit) ---
+release_assets/

@@ -69,12 +69,48 @@ Tổng ~810MB. Không đưa vào Git vì:
 
 ### Tải từ GitHub Release (dự phòng)
 
-Nếu nguồn ngoài không truy cập được, bản sao nằm ở
-[Releases](https://github.com/NSVN-VuDinhDung/09.OcrTraining/releases) —
-tải zip, giải nén vào đúng `onnx/` và `vietocr/weight/`.
+Nếu HuggingFace hoặc vocr.vn không truy cập được:
 
-Release cũng là chỗ để **weight bạn tự fine-tune**: đó là sản phẩm riêng, không
-tải lại từ đâu được. Release asset **không tính vào LFS quota**.
+```powershell
+.\venv_train\Scripts\python.exe download_models.py --release        # models-core.zip
+.\venv_train\Scripts\python.exe download_models.py --release --all  # thêm models-optional.zip
+```
+
+Script tải zip rồi tự giải nén vào đúng thư mục. Hoặc tải tay từ
+[Releases](https://github.com/NSVN-VuDinhDung/09.OcrTraining/releases) và giải
+nén tại gốc repo — đường dẫn trong zip đã là `onnx/...` và `vietocr/weight/...`.
+
+| Zip | Dung lượng | Nội dung |
+|---|---|---|
+| `models-core.zip` | 466 MB | `onnx/` đầy đủ + `vgg_seq2seq.pth` — **đủ để pipeline chạy** |
+| `models-optional.zip` | 309 MB | `vgg_transformer.pth`, `transformerocr.pth`, `cnn/encoder/decoder.onnx` (cho `ocr_onnx.py`) |
+
+Release asset **không tính vào LFS quota** (giới hạn 2GB/file), nên đây cũng là
+chỗ để lưu **weight bạn tự fine-tune** — sản phẩm riêng, không tải lại từ đâu được.
+
+### Tạo và upload zip Release
+
+Tạo zip:
+
+```powershell
+.\venv_train\Scripts\python.exe make_release_zips.py
+```
+
+Upload bằng `gh` CLI (tag phải khớp `RELEASE_TAG` trong `download_models.py`):
+
+```powershell
+gh release create models-v1 `
+    release_assets\models-core.zip `
+    release_assets\models-optional.zip `
+    --title "Model weights v1" `
+    --notes "onnx/ (InfiniFlow/deepdoc) + vietocr/weight/. Giải nén tại gốc repo."
+```
+
+Thêm file vào release đã có: `gh release upload models-v1 <file>`
+(thêm `--clobber` để ghi đè file trùng tên).
+
+Hoặc qua web: **Releases → Draft a new release** → đặt tag `models-v1` → kéo hai
+file zip vào ô *Attach binaries* → **Publish release**.
 
 ---
 
